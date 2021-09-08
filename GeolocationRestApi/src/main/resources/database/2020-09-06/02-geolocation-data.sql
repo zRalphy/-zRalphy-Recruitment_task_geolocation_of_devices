@@ -1,0 +1,9 @@
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (1, 11111, 505401, 142101);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (2, 11112, 505402, 142102);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (3, 11113, 505403, 142103);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (4, 11114, 505404, 142104);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (5, 11115, 505405, 142105);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (6, 11116, 505406, 142106);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (7, 11117, 505407, 142107);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (8, 11118, 505408, 142108);
+insert into GEOLOCATION (id, deviceId, latitiude, longitude) values (9, 11119, 505409, 142109);
